@@ -1,0 +1,34 @@
+caption {
+    text-decoration: underline;
+}
+
+table {
+    border-style: solid;
+    border-color: lightgrey;
+}
+
+td,th {
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+}
+
+.grau {
+    background-color: lightgrey;
+}
+
+.pink {
+    background-color: plum;
+}
+
+.tuerkis {
+    background-color:aqua;
+}
+
+.gelb {
+    background-color: yellow;
+}
+
+.zentriert {
+    text-align: center;
+}
